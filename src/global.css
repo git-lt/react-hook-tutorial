@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.todoapp h1 {
+  top: -85px !important;
+}
+
+.todoapp .footer {
+  box-sizing: content-box !important;
+}
